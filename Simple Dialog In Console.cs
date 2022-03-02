@@ -1,4 +1,9 @@
-﻿using System;
+
+//Just really like this one, it's first thing that i wrote in c-sharp
+
+using System;
+
+
 
 namespace Program
 {
