@@ -20,7 +20,7 @@ namespace _3._1
             }
             else
             {
-                int chenge = cash - 4;
+                int change = cash - 4;
                 Console.WriteLine("Here is your lolipop bruh, I've got u some chenge. \nYou just earned " + change + "$");
             }
 
