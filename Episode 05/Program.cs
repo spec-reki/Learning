@@ -6,13 +6,24 @@ namespace Episode_05
     {
         static void Main(string[] args)
         {
-            string[] games = {"Minecraft" , "Mario" , "Red dead Redemption 2" , "Terraria"};
+            string[] games = new string[4];
+
+            Console.WriteLine("Type in four movies:  ");
 
             for (int i = 0; i < games.Length; i++)
             {
-                int rank = i + 1;
-                Console.WriteLine(rank + ". " + games[i] );
+                games[i] = Console.ReadLine();
             }
+
+            Console.WriteLine("\nHere they are alphabetically: ");
+
+            Array.Sort(games);
+
+            for (int i = 0; i < games.Length; i++)
+            {
+                Console.WriteLine(games[i]);
+            }
+
             Console.ReadKey();
         }
     }
