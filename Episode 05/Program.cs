@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Episode_05
 {
@@ -6,23 +7,28 @@ namespace Episode_05
     {
         static void Main(string[] args)
         {
-            string[] games = new string[4];
+            List<string> shoppingList = new List<string>();
 
-            Console.WriteLine("Type in four movies:  ");
+            shoppingList.Add("Dreams");
+            shoppingList.Add("Sex");
+            shoppingList.Add("Drugs");
+            shoppingList.Add("Anime");
 
-            for (int i = 0; i < games.Length; i++)
+            for (int i = 0; i < shoppingList.Count; i++)
             {
-                games[i] = Console.ReadLine();
+                Console.WriteLine(shoppingList[i]);
             }
 
-            Console.WriteLine("\nHere they are alphabetically: ");
+            shoppingList.Remove("Drugs");
+            shoppingList.RemoveAt(0);
 
-            Array.Sort(games);
+            Console.WriteLine("---------------------------");
 
-            for (int i = 0; i < games.Length; i++)
+            for (int i = 0; i < shoppingList.Count; i++)
             {
-                Console.WriteLine(games[i]);
+                Console.WriteLine(shoppingList[i]);
             }
+
 
             Console.ReadKey();
         }
