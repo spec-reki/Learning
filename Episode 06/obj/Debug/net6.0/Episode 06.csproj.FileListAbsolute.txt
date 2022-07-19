@@ -1,0 +1,5 @@
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 06\obj\Debug\net6.0\Episode 06.csproj.AssemblyReference.cache
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 06\obj\Debug\net6.0\Episode 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 06\obj\Debug\net6.0\Episode 06.AssemblyInfoInputs.cache
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 06\obj\Debug\net6.0\Episode 06.AssemblyInfo.cs
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 06\obj\Debug\net6.0\Episode 06.csproj.CoreCompileInputs.cache
