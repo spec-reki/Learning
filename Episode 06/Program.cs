@@ -6,10 +6,10 @@ namespace Episode
     {
         static void Main(String[] args)
         {
-            Console.WriteLine("Give me a first number to mulltiply here: ");
+            Console.WriteLine("Give me a first number to multiply here: ");
             int num01 = Convert.ToInt16(Console.ReadLine());
 
-            Console.WriteLine("Give me a seckond number to mulltiply here: ");
+            Console.WriteLine("Give me a seckond number to multiply here: ");
             int num02 = Convert.ToInt16(Console.ReadLine());
             
             int result = Multiply(num01, num02);
