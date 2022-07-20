@@ -6,26 +6,29 @@ namespace Episode
     {
         static void Main(String[] args)
         {
-            MeetAlien();
+            int result = Multiply(3, 8);
 
-            Console.WriteLine("----------------------------");
+            Console.WriteLine("The result is: " + result);
 
-            MeetAlien();
-
+            if (result % 2 == 0)
+            {
+                Console.WriteLine(result + " is an even number!");
+            }
+            else
+            {
+                Console.WriteLine(result + " is an uneven number!");
+            }
+            
             // Wait before closing
             Console.ReadKey();
         }
 
-        static void MeetAlien()
+        static int Multiply( int num01, int num02)
         {
-            Random numberGen = new Random();
+            int result = num01 * num02;
+            return result;
 
-            string name =  "M-" + numberGen.Next(10, 9999);
-            int age = numberGen.Next(10, 500);
-
-            Console.WriteLine("Hi, I'm" + name);
-            Console.WriteLine("I'm " + age + " years old.");
-            Console.WriteLine("Oh, and I'm an alien.");
         }
+
     }
 }
