@@ -6,9 +6,11 @@ namespace Episode
     {
         static void Main(String[] args)
         {
+            MeetAlien();
 
+            Console.WriteLine("----------------------------");
 
-
+            MeetAlien();
 
             // Wait before closing
             Console.ReadKey();
