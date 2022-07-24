@@ -9,7 +9,6 @@ namespace My_Awesome_Program
         {
             Console.WriteLine("Enter a sentence: ");
 
-dlaczego to jest takie
             string sentence = Console.ReadLine();
 
 
