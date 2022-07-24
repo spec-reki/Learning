@@ -7,9 +7,6 @@ namespace My_Awesome_Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I need some kind of contribs today!");
-
-
             Console.WriteLine("Enter a sentence: ");
 
 
