@@ -1,5 +1,9 @@
 # c-sharp-learning
-I just started learning c# myself
 
 
-Tommorow I will end up this tutorials
+Currently I'm learning myself with brackeys c# tutorial:
+https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR
+
+When I am gonna finish this course, I will do some minigames in console using c#.
+
+*maybe those files that I am uploading will be helpfull for someone*
