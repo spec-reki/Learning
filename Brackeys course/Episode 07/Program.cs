@@ -6,8 +6,20 @@ namespace Episode_07
     {
         public string name;
         public string favouriteSpell;
-        public int spellSlots;
-        public float experience;
+        private int spellSlots;
+        private float experience;
+
+        public static int Count;
+
+        public Wizard(string  _name, string _favouriteSpell)
+        {
+            name =  _name;
+            favouriteSpell = _favouriteSpell;
+            spellSlots = 2;
+            experience = 0f;
+
+            Count++;
+        }
 
         public void CastSpell()
         {
@@ -32,24 +44,19 @@ namespace Episode_07
     {
         static void Main (string[] args)
         {
-            Wizard wizard01 = new Wizard();
-            wizard01.name = "Gandalf";
-            wizard01.favouriteSpell = "U shall not pass";
-            wizard01.spellSlots = 2;
-            wizard01.experience = 0f;
-
-            wizard01.CastSpell();
-            wizard01.CastSpell();
-            wizard01.CastSpell();
-
-            wizard01.Meditate();
-
-            wizard01.CastSpell();
-            wizard01.CastSpell();
+            Wizard wizard01 = new Wizard("Zyzz", "Bruh");
             
-            Console.WriteLine("Experience: " + wizard01.experience);
+            wizard01.CastSpell();
+
+            Wizard wizard02 = new Wizard("Tevez", "Legend");
+
+            wizard02.CastSpell();
+            
+            Console.WriteLine(Wizard.Count);
 
             Console.ReadKey();
         }
     }
 }
+
+
