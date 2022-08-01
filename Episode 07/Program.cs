@@ -6,8 +6,10 @@ namespace Episode_07
     {
         public string name;
         public string favouriteSpell;
-        public int spellSlots;
-        public float experience;
+        private int spellSlots;
+        private float experience;
+
+        public static int Count;
 
         public Wizard(string  _name, string _favouriteSpell)
         {
@@ -15,6 +17,8 @@ namespace Episode_07
             favouriteSpell = _favouriteSpell;
             spellSlots = 2;
             experience = 0f;
+
+            Count++;
         }
 
         public void CastSpell()
@@ -43,17 +47,16 @@ namespace Episode_07
             Wizard wizard01 = new Wizard("Zyzz", "Bruh");
             
             wizard01.CastSpell();
-            wizard01.CastSpell();
-            wizard01.CastSpell();
 
-            wizard01.Meditate();
+            Wizard wizard02 = new Wizard("Tevez", "Legend");
 
-            wizard01.CastSpell();
-            wizard01.CastSpell();
+            wizard02.CastSpell();
             
-            Console.WriteLine("Experience: " + wizard01.experience);
+            Console.WriteLine(Wizard.Count);
 
             Console.ReadKey();
         }
     }
 }
+
+
