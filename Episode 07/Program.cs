@@ -9,6 +9,14 @@ namespace Episode_07
         public int spellSlots;
         public float experience;
 
+        public Wizard(string  _name, string _favouriteSpell)
+        {
+            name =  _name;
+            favouriteSpell = _favouriteSpell;
+            spellSlots = 2;
+            experience = 0f;
+        }
+
         public void CastSpell()
         {
             if (spellSlots > 0)
@@ -32,12 +40,8 @@ namespace Episode_07
     {
         static void Main (string[] args)
         {
-            Wizard wizard01 = new Wizard();
-            wizard01.name = "Gandalf";
-            wizard01.favouriteSpell = "U shall not pass";
-            wizard01.spellSlots = 2;
-            wizard01.experience = 0f;
-
+            Wizard wizard01 = new Wizard("Zyzz", "Bruh");
+            
             wizard01.CastSpell();
             wizard01.CastSpell();
             wizard01.CastSpell();
