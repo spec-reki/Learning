@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\bin\Debug\net6.0\03.exe
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\bin\Debug\net6.0\03.deps.json
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\bin\Debug\net6.0\03.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\bin\Debug\net6.0\03.dll
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\bin\Debug\net6.0\03.pdb
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.dll
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\refint\03.dll
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.pdb
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Coding lessons in ZSEiT but in c#\lesson 01\03\obj\Debug\net6.0\ref\03.dll
