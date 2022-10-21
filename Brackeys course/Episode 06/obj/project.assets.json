@@ -8,31 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\maksp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\spec-reki\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maksp\\Documents\\GitHub\\c-sharp-learning\\Episode 06\\Episode 06.csproj",
+      "projectUniqueName": "C:\\Users\\spec-reki\\Documents\\GitHub\\c-sharp-learning\\Brackeys course\\Episode 06\\Episode 06.csproj",
       "projectName": "Episode 06",
-      "projectPath": "C:\\Users\\maksp\\Documents\\GitHub\\c-sharp-learning\\Episode 06\\Episode 06.csproj",
-      "packagesPath": "C:\\Users\\maksp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maksp\\Documents\\GitHub\\c-sharp-learning\\Episode 06\\obj\\",
+      "projectPath": "C:\\Users\\spec-reki\\Documents\\GitHub\\c-sharp-learning\\Brackeys course\\Episode 06\\Episode 06.csproj",
+      "packagesPath": "C:\\Users\\spec-reki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\spec-reki\\Documents\\GitHub\\c-sharp-learning\\Brackeys course\\Episode 06\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\maksp\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\spec-reki\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -65,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

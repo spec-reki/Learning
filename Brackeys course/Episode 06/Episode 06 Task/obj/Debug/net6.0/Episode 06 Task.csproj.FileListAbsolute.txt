@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\bin\Debug\net6.0\Episode 06 Task.exe
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\bin\Debug\net6.0\Episode 06 Task.deps.json
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\bin\Debug\net6.0\Episode 06 Task.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\bin\Debug\net6.0\Episode 06 Task.dll
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\bin\Debug\net6.0\Episode 06 Task.pdb
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.dll
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\refint\Episode 06 Task.dll
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.pdb
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\Episode 06 Task.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\c-sharp-learning\Brackeys course\Episode 06\Episode 06 Task\obj\Debug\net6.0\ref\Episode 06 Task.dll
