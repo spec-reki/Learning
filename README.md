@@ -1,9 +1,5 @@
-# c-sharp-learning
+# Learning repository
 
+This is my learning repository. I have all kinds of my progress from courses and other exercises in here.
 
-Currently I'm learning myself with brackeys c# tutorial:
-https://www.youtube.com/playlist?list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR
-
-When I am gonna finish this course, I will do some minigames in console using c#.
-
-*maybe those files that I am uploading will be helpfull for someone*
+If you find something helpful, enjoy that. You can copy this, use for your own projects.
