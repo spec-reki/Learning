@@ -1,22 +1,13 @@
 import './App.css';
+import Navbar from './Navbar';
+import Home from './Home';
 
 function App() {
-  const title = 'Yo, mr.White';
-  const likes = 420;
-  const github = "https://github.com/spec-reki"
-
   return (
     <div className="App">
+      <Navbar />
       <div className="content">
-        <h1>{title}</h1>
-        <p>Liked {likes} times</p>
-
-        <p>{20}</p>
-        <p>{"Jessie, It's not a wire, it's copper"}</p>
-        <p>{[1,2,3,4,5]}</p>
-        <p>{ Math.random() * 10}</p>
-
-        <a href={github}>Github</a>
+        <Home />
       </div>
     </div>
   );
