@@ -1,13 +1,13 @@
 const Navbar = () => {
-    return ( 
-        <nav className="navber">
-            <h1>The meth cooking with mister White!</h1>
-            <div className="links">
-                <a href="/">Home</a>
-                <a href="/create">New Blog</a>
-            </div>
-        </nav>
-     );
-}
- 
-export default Navbar;
+    return (
+      <nav className="navbar">
+        <h1>The Dojo Blog</h1>
+        <div className="links">
+          <a href="/">Home</a>
+          <a href="/create">New Blog</a>
+        </div>
+      </nav>
+    );
+  }
+   
+  export default Navbar;
