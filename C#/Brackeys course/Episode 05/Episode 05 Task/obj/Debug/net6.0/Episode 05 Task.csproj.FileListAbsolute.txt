@@ -1,0 +1,15 @@
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\bin\Debug\net6.0\Episode 05 Task.exe
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\bin\Debug\net6.0\Episode 05 Task.deps.json
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\bin\Debug\net6.0\Episode 05 Task.runtimeconfig.json
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\bin\Debug\net6.0\Episode 05 Task.dll
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\bin\Debug\net6.0\Episode 05 Task.pdb
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.csproj.AssemblyReference.cache
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.AssemblyInfoInputs.cache
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.AssemblyInfo.cs
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.csproj.CoreCompileInputs.cache
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.dll
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\refint\Episode 05 Task.dll
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.pdb
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\Episode 05 Task.genruntimeconfig.cache
+C:\Users\maksp\Documents\GitHub\c-sharp-learning\Episode 05 Task\obj\Debug\net6.0\ref\Episode 05 Task.dll
