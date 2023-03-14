@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\bin\Debug\net6.0\Parogram 01.exe
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\bin\Debug\net6.0\Parogram 01.deps.json
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\bin\Debug\net6.0\Parogram 01.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\bin\Debug\net6.0\Parogram 01.dll
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\bin\Debug\net6.0\Parogram 01.pdb
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.dll
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\refint\Parogram 01.dll
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.pdb
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\Parogram 01.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Parogram 01\obj\Debug\net6.0\ref\Parogram 01.dll
