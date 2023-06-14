@@ -1,0 +1,15 @@
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\bin\Debug\net7.0\Program 03.exe
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\bin\Debug\net7.0\Program 03.deps.json
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\bin\Debug\net7.0\Program 03.runtimeconfig.json
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\bin\Debug\net7.0\Program 03.dll
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\bin\Debug\net7.0\Program 03.pdb
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.csproj.AssemblyReference.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.AssemblyInfoInputs.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.AssemblyInfo.cs
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.csproj.CoreCompileInputs.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.dll
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\refint\Program 03.dll
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.pdb
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\Program 03.genruntimeconfig.cache
+C:\Users\spec-reki\Documents\GitHub\Learning\C#\Preapering for my qualifying exam (INF-04)\Basics\Program 03\obj\Debug\net7.0\ref\Program 03.dll
