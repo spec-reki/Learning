@@ -15,8 +15,6 @@ namespace Program{
 
             Console.WriteLine("\nThe sum of {0} and {1} is: {2}", num01, num02, num01 + num02);
 
-
-
             Console.ReadKey();
         }
     }
