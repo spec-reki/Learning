@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Program14{
+namespace Program15{
     class Program    {
         static void Main(string[] args){
 
