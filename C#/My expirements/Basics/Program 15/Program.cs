@@ -4,11 +4,9 @@ namespace Program14{
     class Program    {
         static void Main(string[] args){
 
-            Console.WriteLine("Put here some crazy number bro:");
-
-            int count = Convert.ToInt32(Console.ReadLine());
+            Conso
             
-            for (int i = 1; i <= count; i++)
+            for (int i = 1; i <= 10; i++)
             {
                 double result = Math.Pow(2, i);
                 Console.WriteLine(result);
