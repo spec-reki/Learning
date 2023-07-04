@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Program19
+namespace Program20
 {
     class Program
     {
