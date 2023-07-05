@@ -5,6 +5,8 @@ namespace Program23{
         static void Main(string[] args){
             
             MeetAlien();
+            Console.WriteLine("----------------------");
+            MeetAlien();
 
             Console.ReadKey();
         }
