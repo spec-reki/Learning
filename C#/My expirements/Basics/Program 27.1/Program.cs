@@ -15,6 +15,8 @@ namespace Program27
             favouriteSpell = _favouriteSpell;
             spellSlots = 2;
             experience = 0f;
+
+            Count++;
         }
 
         public void CastSpell()
@@ -47,6 +49,8 @@ namespace Program27
             Wizard wizard02 = new Wizard("Jake Peralta", "Doug Judy");
 
             wizard02.CastSpell();
+
+            Console.WriteLine(Wizard.Count);
 
             Console.ReadKey();
         }
