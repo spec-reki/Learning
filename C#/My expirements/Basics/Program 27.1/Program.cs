@@ -21,6 +21,11 @@ namespace Program27
                 Console.WriteLine(name + " is out of spell slots.");
             }
         }
+
+        public void Meditate(){
+            Console.WriteLine("{0} meditates to regain spell slpts.", name);
+            spellSlots = 2;
+        }
     }
     class Program
     {
@@ -34,6 +39,11 @@ namespace Program27
 
             
             wizard01.CastSpell();
+            wizard01.CastSpell();
+            wizard01.CastSpell();
+
+            wizard01.Meditate();
+
             wizard01.CastSpell();
             wizard01.CastSpell();
 
