@@ -14,7 +14,7 @@ namespace Program27
             {
                 Console.WriteLine(name + " casts " + favouriteSpell);
                 spellSlots--;
-                experience += 0.5f;
+                experience += 0.8f;
             }
             else
             {
@@ -32,9 +32,12 @@ namespace Program27
             wizard01.spellSlots = 2;
             wizard01.experience = 0f;
 
-            Console.WriteLine("Spell slots: " + wizard01.spellSlots);
+            
             wizard01.CastSpell();
-            Console.WriteLine("Spell slots: " + wizard01.spellSlots);
+            wizard01.CastSpell();
+            wizard01.CastSpell();
+
+            Console.WriteLine("Experience: " + wizard01.experience);
 
             Console.ReadKey();
         }
