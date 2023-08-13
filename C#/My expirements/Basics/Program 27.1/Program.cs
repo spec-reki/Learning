@@ -6,9 +6,10 @@ namespace Program27
     class Wizard{
         public string name;
         public string favouriteSpell;
-        public int spellSlots;
-        public float experience;
-
+        private int spellSlots;
+        private float experience;
+        
+        public static int Count;
         public Wizard(string _name, string _favouriteSpell){
             name = _name;
             favouriteSpell = _favouriteSpell;
@@ -42,15 +43,10 @@ namespace Program27
             Wizard wizard01 = new Wizard("Damn Shaggy", "kamehameha");
             
             wizard01.CastSpell();
-            wizard01.CastSpell();
-            wizard01.CastSpell();
+            
+            Wizard wizard02 = new Wizard("Jake Peralta", "Doug Judy");
 
-            wizard01.Meditate();
-
-            wizard01.CastSpell();
-            wizard01.CastSpell();
-
-            Console.WriteLine("Experience: " + wizard01.experience);
+            wizard02.CastSpell();
 
             Console.ReadKey();
         }
