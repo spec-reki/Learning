@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jc9RTUNp5BzRDpOZcRaz+qesAv+H6jdGpsKnwuFl3FQNUveLqK6m1fg+66ENq4HW1jLTGv6yZnWk39RVDGQk4Q==",
+  "dgSpecHash": "+vcIZF+vHyy2o/6pPYedLSo634hhSytPjO53dmIDXK/W4QJAO8u9QgHc2HubS9RnjIoX2kG1mXdolUL3Sq7j9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\maksp\\Uczymu sie c#\\3.4\\3.4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\spec-reki\\Documents\\GitHub\\Learning\\C#\\Brackeys course\\Episode 03\\3.4\\3.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spec-reki\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\spec-reki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\spec-reki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\spec-reki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

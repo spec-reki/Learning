@@ -26,6 +26,7 @@ func _physics_process(delta):
 		
 	if Input.is_action_just_pressed("jump") and is_on_wall():
 		velocity.y = JUMP_VELOCITY
+		sprite_2d.flip_h
 		
 
 	# Get the input direction and handle the movement/deceleration.
@@ -34,7 +35,7 @@ func _physics_process(delta):
 	if direction:
 		velocity.x = direction * SPEED
 	else:
-		velocity.x = move_toward(velocity.x, 0, 10)
+		velocity.x = move_toward(velocity.x, 0, 20)
 
 	move_and_slide()
 
